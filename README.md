@@ -1,7 +1,7 @@
 
-# Console Snake Game.
+# Console Snake Game in C
 
-Youtube link: https://www.youtube.com/watch?v=cUJE10XEjrU
+Youtube link: https://youtu.be/cUJE10XEjrU
 
 Compilation and running:
 ```
