@@ -5,7 +5,7 @@ Youtube link: https://youtu.be/cUJE10XEjrU
 
 Compilation and running:
 ```
-$ gcc -o snake snake.c
+$ gcc -o snake main.c
 $ ./snake
 ```
 
