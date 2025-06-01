@@ -12,7 +12,7 @@ $ ./snake
 Control keys:
 ```
 Esc - quit
-h - left
+h - right
 j - down
 k - up
 l - left
