@@ -117,7 +117,19 @@ int main() {
         } else if (ch == 'k' && ydir != 1) {
           xdir = 0;
           ydir = -1;
-        }
+        } else if (ch == 'a' && xdir != 1) {
+          xdir = -1;
+          ydir = 0;
+        } else if (ch == 'd' && xdir != -1) {
+          xdir = 1;
+          ydir = 0;
+        } else if (ch == 's' && ydir != -1) {
+          xdir = 0;
+          ydir = 1;
+        } else if (ch == 'w' && ydir != 1) {
+          xdir = 0;
+          ydir = -1;
+        } 
       }
     }
 
